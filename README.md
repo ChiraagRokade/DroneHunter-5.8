@@ -2,15 +2,6 @@
 
 ---
 
-## 🎬 Video Demo
-
-Check out the gameplay demonstration on YouTube:
-
-[![DroneHunter 5.8 Demo](https://img.youtube.com/vi/YOUR_VIDEO_ID/maxresdefault.jpg)](https://www.youtube.com/watch?v=YOUR_VIDEO_ID)
-
-> *Click the thumbnail above to watch the video demo, or [watch it directly on YouTube](https://www.youtube.com/watch?v=YOUR_VIDEO_ID).*
-
----
 
 ## 🌟 Key Features
 
